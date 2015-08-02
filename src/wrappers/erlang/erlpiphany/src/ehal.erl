@@ -92,7 +92,7 @@
 	 e_set_host_verbosity/1, e_set_loader_verbosity/1]).
 
 -on_load(init/0).
--define(APPNAME, erlpiphany).
+-define(APPNAME, ehal).
 
 
 
